@@ -1,2 +1,2 @@
 # discordbot1
-#Comming soon.
+# Comming soon.
